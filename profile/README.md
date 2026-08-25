@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://via.placeholder.com/96" alt="Embernix" width="96" />
+  <img src="https://cdn.builtbybit.com/avatars/o/673/673638.jpg?1782962649" alt="Embernix" width="96" />
 </p>
 
 <h1 align="center">Embernix</h1>
